@@ -21,7 +21,7 @@
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kausalya17897&show_icons=true&theme=gotham" alt="Kausalya K" />
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kausalya17897&theme=radical)
+  
 
 ​
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kausalya17897&layout=compact&theme=radical&langs_count=6)
