@@ -17,7 +17,14 @@
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   
 </p>
-
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+JavaScript   9 hrs 53 mins   ██████████████▓░░░░░░░░░░   59.33 % 
+Mysql        3 hrs 42 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.29 % 
+Java         3 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.36 % 
+```
+<!--END_SECTION:waka-->
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kausalya17897&show_icons=true&theme=gotham" alt="Kausalya K" />
