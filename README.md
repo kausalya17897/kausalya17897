@@ -24,6 +24,9 @@
   
 
 ​
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kausalya17897&layout=compact&theme=radical&langs_count=6" alt ="Kausi"/>
+    </p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kausalya17897&layout=compact&theme=radical&langs_count=6)
 <!--
 **kausalya17897/kausalya17897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
