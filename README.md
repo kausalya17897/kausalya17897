@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>I'm Kausalya,a fresher who have knowledge on HTML,CSS,Javascript,Bootstrap.Currently learning MERN stack development.</p>
+<p>Hello! I'm K.Kausalya, a passionate web developer. I develop web applications. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I love to make the web more open to the world. </p>
 ## ⚡ Things I code with
 
 <p>
